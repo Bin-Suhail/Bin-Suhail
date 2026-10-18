@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="48" viewBox="0 0 640 48" role="img" aria-labelledby="title">
+  <title id="title">Python, OpenWrt, Android, and local networking</title>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">
+    <rect x="0" y="1" width="138" height="44" rx="9" fill="#132a3c"/><circle cx="22" cy="23" r="5" fill="#facc15"/><text x="37" y="28" fill="#e2e8f0">Python</text>
+    <rect x="150" y="1" width="148" height="44" rx="9" fill="#132a3c"/><circle cx="172" cy="23" r="5" fill="#38bdf8"/><text x="187" y="28" fill="#e2e8f0">OpenWrt</text>
+    <rect x="310" y="1" width="140" height="44" rx="9" fill="#132a3c"/><circle cx="332" cy="23" r="5" fill="#86efac"/><text x="347" y="28" fill="#e2e8f0">Android</text>
+    <rect x="462" y="1" width="178" height="44" rx="9" fill="#132a3c"/><circle cx="484" cy="23" r="5" fill="#5eead4"/><text x="499" y="28" fill="#e2e8f0">Local networking</text>
+  </g>
+</svg>
