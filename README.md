@@ -16,14 +16,14 @@
 ### Selected work
 
 <p>
-  <a href="https://github.com/Bin-Suhail/View-Net"><img src="assets/navy-view-net-card.svg" width="49%" alt="View Net — MikroTik monitoring, topology maps and Android tools. React, TypeScript, Capacitor, Firebase." /></a>
-  <a href="https://github.com/Bin-Suhail/openwrt-ap-studio"><img src="assets/navy-openwrt-card.svg" width="49%" alt="OpenWrt AP Studio — local access-point setup for desktop and Android. Python, OpenWrt, LAN and VLAN." /></a>
+  <a href="https://github.com/Bin-Suhail/View-Net"><img src="assets/navy-view-net-card.svg" width="400" alt="View Net — MikroTik monitoring, topology maps and Android tools. React, TypeScript, Capacitor, Firebase." /></a>
+  <a href="https://github.com/Bin-Suhail/openwrt-ap-studio"><img src="assets/navy-openwrt-card.svg" width="400" alt="OpenWrt AP Studio — local access-point setup for desktop and Android. Python, OpenWrt, LAN and VLAN." /></a>
 </p>
 
 ### Tools I build with
 
 <p>
-  <img src="assets/navy-stack-strip.svg" width="100%" alt="Python · TypeScript · React · Android · Firebase · OpenWrt" />
+  <code>Python</code> &nbsp; <code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Android</code> &nbsp; <code>Firebase</code> &nbsp; <code>OpenWrt</code>
 </p>
 
 <p align="center">
