@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Building tools that connect software to real networks.</b><br/>
-  أدوات برمجية للشبكات، بواجهات عربية وتجربة استخدام واضحة.
+  تطوير تطبيقات وأدوات لإدارة الشبكات.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ### Selected work
 
 <p>
-  <a href="https://github.com/Bin-Suhail/View-Net"><img src="assets/navy-view-net-card.svg" width="400" alt="View Net — MikroTik monitoring, topology maps and Android tools. React, TypeScript, Capacitor, Firebase." /></a>
+  <a href="https://github.com/Bin-Suhail/View-Net"><img src="assets/navy-view-net-card.svg?v=2" width="400" alt="View Net — MikroTik monitoring, topology maps and Android tools. React, TypeScript, Capacitor, Firebase." /></a>
   <a href="https://github.com/Bin-Suhail/openwrt-ap-studio"><img src="assets/navy-openwrt-card.svg" width="400" alt="OpenWrt AP Studio — local access-point setup for desktop and Android. Python, OpenWrt, LAN and VLAN." /></a>
 </p>
 
@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-  <sub>NETWORKING &nbsp; / &nbsp; ANDROID &amp; DESKTOP &nbsp; / &nbsp; ARABIC INTERFACES</sub>
+  <sub>NETWORKING &nbsp; / &nbsp; ANDROID &amp; DESKTOP</sub>
 </p>
